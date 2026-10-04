@@ -332,7 +332,7 @@ Test Accuracy: 93.18%
 M.Tech Applied AI & ML · VNIT Nagpur
 
 - 🌐 Portfolio: [sumit966-github-io.vercel.app](https://sumit966-github-io.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/er-sumit-raj](https://linkedin.com/in/er-sumit-raj)
+- 💼 LinkedIn: [linkedin.com/in/er-sumit-raj](https://www.linkedin.com/in/er-sumit-raj-/)
 - 🐙 GitHub: [github.com/sumit966](https://github.com/sumit966)
 - 📧 Email: info.sr0909@gmail.com
 
